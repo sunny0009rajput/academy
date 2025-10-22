@@ -1,0 +1,177 @@
+{
+    "chapters": [
+        {
+            "id": 1,
+            "title": "Dance"
+        },
+        {
+            "id": 2,
+            "title": "Arts Personality"
+        },
+        {
+            "id": 3,
+            "title": "Arts Awards"
+        },
+        {
+            "id": 4,
+            "title": "Musical Instruments"
+        },
+        {
+            "id": 5,
+            "title": "Festivals"
+        },
+        {
+            "id": 6,
+            "title": "Fairs"
+        },
+        {
+            "id": 7,
+            "title": "Songs"
+        },
+        {
+            "id": 8,
+            "title": "Painting Dress Tribes"
+        },
+        {
+            "id": 9,
+            "title": "First in India and world"
+        },
+        {
+            "id": 10,
+            "title": "Sports"
+        },
+        {
+            "id": 11,
+            "title": "Books and Authors"
+        },
+        {
+            "id": 12,
+            "title": "Famous Personality"
+        },
+        {
+            "id": 13,
+            "title": "Important Days"
+        },
+        {
+            "id": 14,
+            "title": "State GK"
+        },
+        {
+            "id": 15,
+            "title": "Organisation"
+        },
+        {
+            "id": 16,
+            "title": "World GK"
+        },
+        {
+            "id": 17,
+            "title": "Computer"
+        },
+        {
+            "id": 18,
+            "title": "Full Form"
+        },
+        {
+            "id": 19,
+            "title": "Religious Places"
+        },
+        {
+            "id": 20,
+            "title": "Awards"
+        },
+        {
+            "id": 21,
+            "title": "Important Events"
+        },
+        {
+            "id": 22,
+            "title": "Founder"
+        },
+        {
+            "id": 23,
+            "title": "Entertainment"
+        },
+        {
+            "id": 24,
+            "title": "Schemes"
+        },
+        {
+            "id": 25,
+            "title": "Miscellaneous"
+        },
+        {
+            "id": 26,
+            "title": "Ancient History"
+        },
+        {
+            "id": 27,
+            "title": "Medieval History"
+        },
+        {
+            "id": 28,
+            "title": "Modern History"
+        },
+        {
+            "id": 29,
+            "title": "Politics"
+        },
+        {
+            "id": 30,
+            "title": "Geography"
+        },
+        {
+            "id": 31,
+            "title": "Economics"
+        },
+        {
+            "id": 32,
+            "title": "Physics"
+        },
+        {
+            "id": 33,
+            "title": "Chemistry"
+        },
+        {
+            "id": 34,
+            "title": "Biology"
+        }
+    ],
+    "Dance": [
+        {
+            "Concept": []
+        },
+        {
+            "Questions": [
+                {
+                    "id": 1,
+                    "question": {
+                        "type": "text",
+                        "content": "  Sattriya dance form is famous in which of these states?"
+                    },
+                    "options": [
+                        {
+                            "text": "Assam"
+                        },
+                        {
+                            "text": " Himachal Pradesh"
+                        },
+                        {
+                            "text": "Punjab"
+                        },
+                        {
+                            "text": "Tamil Nadu"
+                        }
+                    ],
+                    "answer": "Assam",
+                    "solution": {
+                        "type": "text",
+                        "content": " Assam. Sattriya dance originated in Sattra, a monastery, as a part of the neo-Vaishnavite movement started by Srimanta Sankardev. Sattriya was given the status of a classical dance in the year 2000 by the Sangeet Natak Akademi. The dance styles of Sattriya are Paurashik Bhangi (male style) andStri Bhangi (female style). Folk dances ofAssam: Bihu, Bagurumba, Deodhani,Bhortal dance."
+                    },
+                    "videoUrl": "https://youtu.be/YjWUPmAhh-s?si=XHRAPB7hH0Mly6Ad",
+                    "status": "SSC Stenographer 12/10/2023 (Morning)"
+                }
+            ]
+        }
+    ]
+}

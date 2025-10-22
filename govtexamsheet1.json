@@ -1,0 +1,354 @@
+{
+    "chapters": [
+        {
+            "id": 1,
+            "title": "Number System"
+        },
+        {
+            "id": 2,
+            "title": "HCF and LCM"
+        },
+        {
+            "id": 3,
+            "title": "Simplification"
+        },
+        {
+            "id": 4,
+            "title": "Trigonometry"
+        },
+        {
+            "id": 5,
+            "title": "Height and Distance"
+        },
+        {
+            "id": 6,
+            "title": "Mensuration"
+        },
+        {
+            "id": 7,
+            "title": "Geometry"
+        },
+        {
+            "id": 8,
+            "title": "Algebra"
+        },
+        {
+            "id": 9,
+            "title": "Ratio and Proportion"
+        },
+        {
+            "id": 10,
+            "title": "Mixtures and Alligations"
+        },
+        {
+            "id": 11,
+            "title": "Work and Time"
+        },
+        {
+            "id": 12,
+            "title": "Pipe and Cistern"
+        },
+        {
+            "id": 13,
+            "title": "Speed and Distance"
+        },
+        {
+            "id": 14,
+            "title": "Boat and Stream"
+        },
+        {
+            "id": 15,
+            "title": "Percentage"
+        },
+        {
+            "id": 16,
+            "title": "Profit and Loss"
+        },
+        {
+            "id": 17,
+            "title": "Discount"
+        },
+        {
+            "id": 18,
+            "title": "Simple Interest"
+        },
+        {
+            "id": 19,
+            "title": "Compound Interest"
+        },
+        {
+            "id": 20,
+            "title": "Average"
+        },
+        {
+            "id": 21,
+            "title": "Data Interpretation"
+        },
+        {
+            "id": 22,
+            "title": "Mean Median and Mode"
+        },
+        {
+            "id": 23,
+            "title": "Coordinate Geometry"
+        }
+    ],
+    "Number_System": [
+        {
+            "Concept": [
+                {
+                    "id": 1,
+                    "concept": "Basics of Number System",
+                    "concept-description": {
+                        "type": "text",
+                        "content": "hi sunny"
+                    },
+                    "concept-example": {
+                        "type": "text",
+                        "content": "hello sunny"
+                    },
+                    "details": [
+                        {
+                            "title": "Face Value",
+                            "description": {
+                                "type": "text",
+                                "content": "It is nothing but the number itself about which it has been asked."
+                            },
+                            "example": {
+                                "type": "text",
+                                "content": "In the number 23576, face value of 5 is 5 and face value of 7 is 7."
+                            }
+                        },
+                        {
+                            "title": "Place Value",
+                            "description": {
+                                "type": "text",
+                                "content": "The place value of a number depends on its position in the number. Each position has a value 10ⁿ, the places to its right."
+                            },
+                            "example": {
+                                "type": "text",
+                                "content": "In the number 23576, place value of 5 is 500 and place value of 3 is 3000.."
+                            }
+                        }
+                    ],
+                    "videoUrl": "https://youtu.be/CIJ3t9FKbuo?si=wWKQ32gXqjBb5MAB"
+                },
+                {
+                    "id": 2,
+                    "concept": "Types of Numbers",
+                    "concept-description": {
+                        "type": "image",
+                        "content": "https://res.cloudinary.com/djr3br3ts/image/upload/v1760174854/q2q_yddc74.png"
+                    },
+                    "concept-example": {
+                        "type": "image",
+                        "content": "https://res.cloudinary.com/djr3br3ts/image/upload/v1760174854/q2q_yddc74.png"
+                    },
+                    "details": [
+                        {
+                            "title": "(1). Natural Numbers (N) : ",
+                            "description": {
+                                "type": "text",
+                                "content": "All  positive  counting  numbers.  (0  is  not included in it.)"
+                            },
+                            "example": {
+                                "type": "text",
+                                "content": "Examples: 1, 2, 3, 4… etc."
+                            }
+                        },
+                        {
+                            "title": "(2).  Whole  Numbers  (W):",
+                            "description": {
+                                "type": "text",
+                                "content": "All  non-negative numbers are all whole numbers."
+                            },
+                            "example": {
+                                "type": "text",
+                                "content": "Examples: 0, 1, 2, 3, 4… etc."
+                            }
+                        },
+                        {
+                            "title": " (3).  Integer  Numbers  (I): ",
+                            "description": {
+                                "type": "text",
+                                "content": " All  positive numbers  and  negative  numbers including  zero.  Positive  numbers  are called  positive  integers  and  negative numbers are called negative integers. "
+                            },
+                            "example": {
+                                "type": "text",
+                                "content": "Examples: I = ….. , -4, - 3, - 2, - 1, 0, 1, 2, 3, 4 …... "
+                            }
+                        },
+                        {
+                            "title": " (4).   Even  Numbers  : ",
+                            "description": {
+                                "type": "text",
+                                "content": " 2,  4,  6,  8,  10….. [Divisible by 2 completely] "
+                            },
+                            "example": {
+                                "type": "text",
+                                "content": "Examples:  2,  4,  6,  8,  10….. "
+                            }
+                        },
+                        {
+                            "title": " (5).  Odd  Numbers: ",
+                            "description": {
+                                "type": "text",
+                                "content": "1,  3,  5,  7,  9,  11…..  [Not  divisible by 2 completely]  "
+                            },
+                            "example": {
+                                "type": "text",
+                                "content": "Examples:   1,  3,  5,  7,  9,  11…..  "
+                            }
+                        },
+                        {
+                            "title": " (6).  Rational  Numbers  :  ",
+                            "description": {
+                                "type": "text",
+                                "content": " Numbers  whose exact  value  can  be  determined.  Also  a number  which  can  be  written  in  the  form ,  where  p  and  q  are  integers  and  q  ≠  0 𝑝/𝑞 is called a rational  number."
+                            },
+                            "example": {
+                                "type": "image",
+                                "content": "https://res.cloudinary.com/djr3br3ts/image/upload/v1760153270/Screenshot_2025-10-11_085608_kpz21g.png "
+                            }
+                        },
+                        {
+                            "title": " (7).  Irrational  Numbers : ",
+                            "description": {
+                                "type": "text",
+                                "content": "Numbers  whose exact value cannot be determined. "
+                            },
+                            "example": {
+                                "type": "text",
+                                "content": " Example :  = 3.142857142857 … "
+                            }
+                        },
+                        {
+                            "title": " (8).  Prime  number  ",
+                            "description": {
+                                "type": "text",
+                                "content": " A  number  which  is  divisible  by  1  and  itself.  2  is  only  an  even prime number."
+                            },
+                            "example": {
+                                "type": "text",
+                                "content": "Example : 2, 3, 5, 7, 11, etc. "
+                            }
+                        },
+                        {
+                            "title": " (5).  Odd  Numbers: ",
+                            "description": {
+                                "type": "text",
+                                "content": "1,  3,  5,  7,  9,  11…..  [Not  divisible by 2 completely]  "
+                            },
+                            "example": {
+                                "type": "text",
+                                "content": "Examples:  2,  4,  6,  8,  10….. "
+                            }
+                        },
+                        {
+                            "title": " (5).  Odd  Numbers: ",
+                            "description": {
+                                "type": "text",
+                                "content": "1,  3,  5,  7,  9,  11…..  [Not  divisible by 2 completely]  "
+                            },
+                            "example": {
+                                "type": "text",
+                                "content": "Examples:  2,  4,  6,  8,  10….. "
+                            }
+                        }
+                    ]
+                    ,
+                    "videoUrl": "https://youtu.be/CIJ3t9FKbuo?si=wWKQ32gXqjBb5MAB"
+                }
+            ]
+        },
+        {
+            "Questions": [
+                {
+                    "id": 1,
+                    "question": {
+                        "type": "text",
+                        "content": " A  six-digit  number  11p9q4  is divisible  by  24.  Then  the  greatest possible value for pq is:"
+                    },
+                    "options": [
+                        {"text": "56"},
+                        {"text": "68"},
+                        {"text": "42"},
+                        {"text": "32"}
+                        
+                    ],
+                    "answer": "56",
+                    "solution": {
+                        "type": "text",
+                        "content": " 24 = 8 × 3 # For  11p9q4  to  be  divisible  by  8,  its  last  3 # digits i.e. 9q4 should be divisible by 8 # Then,  the  possible  values  of  q  are  4,  8. # But for the greatest value , q should be 8. # For  11p9  8  4  to  be  divisible  by  3,  the  sum # of  its  digits  i.e.  1  +  1  +  p  +  9  +  8  +  4  =  23 + p # should be divisible by 3. # For greatest value, p should be 7 # Hence, pq = 7 × 8 = 56 "
+                    },
+                    "videoUrl": "https://youtu.be/YjWUPmAhh-s?si=XHRAPB7hH0Mly6Ad",
+                    "status": "SSC CGL Tier II  (26/10/2023)"
+                },
+                {
+                    "id": 2,
+                    "question": {
+                        "type": "image",
+                        "content": "https://res.cloudinary.com/djr3br3ts/image/upload/v1760174854/q2q_yddc74.png"
+                    },
+                    "options": [
+                        {"text": "1"},
+                        {"text": "4"},
+                        {"text": "2"},
+                        {"text": "3"}
+                        
+                    ],
+                    "answer": "3",
+                    "solution": {
+                        "type": "image",
+                        "content": "https://res.cloudinary.com/djr3br3ts/image/upload/v1760175284/q2s_ssourw.png"
+                    },
+                    "videoUrl": "https://youtu.be/CIJ3t9FKbuo?si=wWKQ32gXqjBb5MAB",
+                    "status": "SSC CHSL 11/08/2023 (4th Shift)"
+                },
+                {
+                    "id": 3,
+                    "question": {
+                        "type": "text",
+                        "content": "  Q.3.  Two  numbers,  when  divided  by  a certain  divisor,  leave  the  remainder  57. When  sum  of  the  two  numbers  is  divided by the same divisor, the remainder is 49. The divisor is: "
+                    },
+                    "options": [
+                        {"text": "56"},
+                        {"text": "57"},
+                        {"text": "49"},
+                        {"text": "65"}
+                        
+                    ],
+                    "answer": "65",
+                    "solution": {
+                        "type": "text",
+                        "content": " i have to pase the answer "
+                    },
+                    "videoUrl": "https://youtu.be/YjWUPmAhh-s?si=XHRAPB7hH0Mly6Ad",
+                    "status": "SSC CHSL 08/08/2023 (3rd Shift) "
+                },
+                {
+                    "id": 4,
+                    "question": {
+                        "type": "text",
+                        "content": "  Q.4.  Two  numbers,  when  divided  by  a certain  divisor,  leave  the  remainder  57. When  sum  of  the  two  numbers  is  divided by the same divisor, the remainder is 49. The divisor is: "
+                    },
+                    "options": [
+                        {"text": "56"},
+                        {"text": "57"},
+                        {"text": "49"},
+                        {"text": "65"}
+                        
+                    ],
+                    "answer": "65",
+                    "solution": {
+                        "type": "text",
+                        "content": " i have to pase the answer "
+                    },
+                    "videoUrl": "https://youtu.be/YjWUPmAhh-s?si=XHRAPB7hH0Mly6Ad",
+                    "status": "SSC CHSL 08/08/2023 (3rd Shift) "
+                }
+                
+            ]
+        }
+    ]
+}
