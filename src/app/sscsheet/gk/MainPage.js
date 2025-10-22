@@ -4,7 +4,7 @@ import React, { useState, useEffect } from "react";
 import { ChevronDown, ChevronUp, FileText, Star, Youtube } from "lucide-react";
 import { useRouter } from "next/navigation";
 import Navbar from "@/app/Navbar";
-import gkData from "../../../../../codemonarchacademy/gk.json"; // local JSON
+import gkData from "../../data/gk.json"; // local JSON
 import {
   getChapterProgress,
   updateProblemStatus,

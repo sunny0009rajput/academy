@@ -4,7 +4,7 @@ import { useEffect, useState } from "react";
 import { useSearchParams, useParams, useRouter } from "next/navigation";
 import { toast, Toaster } from "react-hot-toast";
 import Image from "next/image";
-import gkData from "../../../../../../../codemonarchacademy/gk.json"; // 👈 import your local data
+import gkData from "../../../../data/gk.json"; // 👈 import your local data
 
 export default function ProblemPage() {
   const { id } = useParams();

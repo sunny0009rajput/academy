@@ -4,7 +4,7 @@ import React, { useState, useEffect } from "react";
 import { Star, FileText, Youtube, ChevronDown, ChevronUp, ArrowLeft } from "lucide-react";
 import { useRouter } from "next/navigation";
 import Navbar from "@/app/Navbar";
-import gkData from "../../../../../../codemonarchacademy/gk.json";
+import gkData from "../../../data/gk.json";
 import { getAllChaptersProgress, saveChapterProgress } from "@/app/db";
 
 export default function RevisionPage() {
